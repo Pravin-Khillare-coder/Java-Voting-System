@@ -1,0 +1,2 @@
+101,32250170a0dca92d53ec9624f336ca24,CR=0|Sports=1|Cultural=0
+102,e99a18c428cb38d5f260853678922e03,CR=0|Sports=0|Cultural=0
